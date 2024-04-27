@@ -2,6 +2,10 @@
 
 Meu nome é Stella Camargo, mas podem me chamar de Ste. Sou formada em Jogos Digitais e atualmente me graduando em Sistemas de Informação, estou numa jornada com a [@cubosacademy](https://cubos.academy/), na área desde 2020. Gosto muito de jogos onlines e meu maior vício é CS2, tenho um canal na [Twitch](https://www.twitch.tv/stellacamargo_v) por lá faço lives.
 
+<div align="center">
+<img src="https://github.com/stellacamargo/stellacamargo/assets/62517965/9232b8af-966d-4802-96ed-0e946dbac225" width="300px" />
+</div>
+
 ### Para me encontrar:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stellacamargo_v/)
