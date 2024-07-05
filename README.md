@@ -3,9 +3,7 @@
 Sou graduada em Jogos Digitais com experiência em tecnologia e entretenimento. Atuei como Streamer/Influencer para a organização de E-sports [3C Gaming](https://3c.gg/), contribuindo para o canal [NobreakTV](https://www.instagram.com/nobreak.tv/), que transmitia partidas de Counter-Strike: Global Offensive 24 horas por dia. Atualmente, curso Sistemas de Informação na Universidade do Estado de Minas Gerais e estou me especializando em Desenvolvimento de Software na [Cubos Academy](https://cubos.academy/). Estou em busca de oportunidades na área de tecnologia, onde desejo aplicar sua paixão por jogos, experiência em transmissão ao vivo e conhecimentos em desenvolvimento de software. 
 
 
-<div align="center">
-<img src="https://github.com/stellacamargo/stellacamargo/assets/62517965/9232b8af-966d-4802-96ed-0e946dbac225" width="300px" />
-</div>
+
 
 ### Para me encontrar:
 
